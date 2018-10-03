@@ -3784,8 +3784,8 @@ STR_PARK    :Mundo de Katie
 STR_DTLS    :Un pequeño parque temático con unas cuantas atracciones y posibilidades de expansión. Tu objetivo será duplicar el valor del parque.
 
 <Pokey Park>
-STR_SCNR    :Parque Pequeno
-STR_PARK    :Parque Pequeno
+STR_SCNR    :Parque Pequeño
+STR_PARK    :Parque Pequeño
 STR_DTLS    :Un pequeño y abarrotado parque de atracciones que necesita una gran expansión.
 
 <White Water Park>
@@ -3855,14 +3855,14 @@ STR_DTLS    :¡Por pasarlo bien!
 
 ## Corkscrew Follies
 <Whispering Cliffs>
-STR_SCNR    :Whispering Cliffs
-STR_PARK    :Whispering Cliffs
-STR_DTLS    :Develop the seaside cliffs into a thriving amusement park
+STR_SCNR    :Acantilados Susurradores
+STR_PARK    :Acantilados Sussuradores
+STR_DTLS    :Convierte los acantilados costeros en un próspero parque de diversiones
 
 <Three Monkeys Park>
-STR_SCNR    :Three Monkeys Park
-STR_PARK    :Three Monkeys Park
-STR_DTLS    :Central to this large developing park is a giant triple-track racing/duelling steel coaster
+STR_SCNR    :Parque Tres Monos
+STR_PARK    :Parque Tres Monos
+STR_DTLS    :En el centro de este gran parque en desarollo hay una gigante montaña rusa de acero con una triple-pista corriendo/compitiendo
 
 <Canary Mines>
 STR_SCNR    :Canary Mines
